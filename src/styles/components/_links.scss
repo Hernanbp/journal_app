@@ -1,0 +1,9 @@
+.link{
+    text-decoration: none;
+    color: $primary;
+    letter-spacing: -0.5px;
+    font-weight: 500;
+    &:hover{
+        text-decoration: underline;
+    }
+}
